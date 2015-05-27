@@ -83,10 +83,6 @@ APP.Main = (function() {
 
       }
     }
-
-    // Colorize on complete.
-    if (storyLoadCount === 0)
-      colorizeAndScaleStories();
   }
 
   function onStoryClick(details) {
