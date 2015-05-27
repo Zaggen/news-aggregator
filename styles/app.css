@@ -202,6 +202,10 @@ main.loading {
       0px 2px 5px 0px rgba(0, 0, 0, 0.06),
       0px 2px 5px 0px rgba(0, 0, 0, 0.08),
       0px 2px 7px 0px rgba(0, 0, 0, 0.10);
+
+  background: linear-gradient(#FFB300, #A68F58);
+  background-size: 100% 100%;
+  background-attachment: fixed;
 }
 
 .story-details {
